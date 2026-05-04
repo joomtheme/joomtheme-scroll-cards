@@ -1,15 +1,13 @@
-<img width="1315" height="762" alt="card" src="https://github.com/user-attachments/assets/631544b4-7ba0-421f-91b2-9a0468f9411b" />
+# JT Scroll Cards
 
-
-# JoomTheme Scroll Cards
-
-JoomTheme Scroll Cards is a Joomla 6.x site module for creating Bootstrap 5 compatible sticky scroll card sections. Content, layout, spacing and colors are managed from the module parameters.
+JT Scroll Cards is a Joomla 6.x site module by JoomTheme for creating Bootstrap 5 compatible sticky scroll card sections. Content, layout, spacing and colors are managed from the module parameters.
 
 ## Publisher
 
 - JoomTheme
-- https://joomtheme.com
-- support@joomtheme.com
+- Website: https://joomtheme.com
+- Support: https://github.com/joomtheme/joomtheme-scroll-cards/issues
+- Email: support@joomtheme.com
 
 ## Requirements
 
@@ -21,8 +19,10 @@ JoomTheme Scroll Cards is a Joomla 6.x site module for creating Bootstrap 5 comp
 1. Download the latest release zip from GitHub Releases.
 2. In Joomla Administrator, go to System > Install > Extensions.
 3. Upload the module zip file.
-4. Go to Content > Site Modules > JoomTheme Scroll Cards.
+4. Go to Content > Site Modules > JT Scroll Cards.
 5. Choose a template position, publish the module and assign it to menu items.
+
+> Note: Version 0.2.6 is the clean JT-branded package. Install it as a clean module package if you used an older development build.
 
 ## Features
 
@@ -30,7 +30,7 @@ JoomTheme Scroll Cards is a Joomla 6.x site module for creating Bootstrap 5 comp
 - Repeatable cards using Joomla module parameters.
 - Preset tones plus optional custom color pickers per card.
 - Optional intro title, subtitle and intro text.
-- Scoped CSS under `.jtr-scrollcards`.
+- Scoped CSS under `.jt-scrollcards`.
 - CSS-only scroll/sticky visual effect; no JavaScript required.
 - English and Turkish language files.
 - Joomla update server and changelog support.
