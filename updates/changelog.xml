@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <changelogs>
     <changelog>
-        <element>mod_jtr_scrollcards</element>
+        <element>mod_jt_scrollcards</element>
         <type>module</type>
-        <version>0.2.5</version>
+        <version>0.2.6</version>
         <addition>
-            <item>Added Joomla update server registration to the module manifest.</item>
-            <item>Added Joomla changelog URL support.</item>
-            <item>Added repository-ready update and changelog XML files for GitHub distribution.</item>
-            <item>Added LICENSE.txt and refreshed project documentation for JED/GitHub distribution.</item>
+            <item>Added JoomTheme website and GitHub Issues support links to the module metadata and language description.</item>
         </addition>
+        <change>
+            <item>Renamed the module branding to JT Scroll Cards.</item>
+            <item>Updated the technical module element and frontend CSS scope to the JT naming scheme.</item>
+            <item>Updated README, update server metadata and release asset naming for the JT package.</item>
+        </change>
         <fix>
-            <item>Added GPL-compatible license headers to services/provider.php and src/Dispatcher/Dispatcher.php for JED Checker compatibility.</item>
+            <item>Updated the Turkish default intro text to avoid mixed English wording.</item>
         </fix>
         <note>
             <item>This changelog intentionally lists only the latest release.</item>
