@@ -6,10 +6,10 @@
         <element>mod_jt_scrollcards</element>
         <type>module</type>
         <client>site</client>
-        <version>0.2.6</version>
-        <infourl title="JT Scroll Cards 0.2.6">https://github.com/joomtheme/joomtheme-scroll-cards/releases/tag/v0.2.6</infourl>
+        <version>0.2.7</version>
+        <infourl title="JT Scroll Cards 0.2.7">https://github.com/joomtheme/joomtheme-scroll-cards/releases/tag/v0.2.7</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/joomtheme/joomtheme-scroll-cards/releases/download/v0.2.6/mod_jt_scrollcards_v0.2.6.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/joomtheme/joomtheme-scroll-cards/releases/download/v0.2.7/mod_jt_scrollcards_v0.2.7.zip</downloadurl>
         </downloads>
         <changelogurl>https://raw.githubusercontent.com/joomtheme/joomtheme-scroll-cards/main/updates/changelog.xml</changelogurl>
         <tags>
@@ -17,8 +17,8 @@
         </tags>
         <maintainer>JoomTheme</maintainer>
         <maintainerurl>https://joomtheme.com</maintainerurl>
-        <targetplatform name="joomla" version="6\.[0-9]+" />
+        <targetplatform name="joomla" version="6\.[0-9]+(\.[0-9]+)?" />
         <php_minimum>8.3.0</php_minimum>
-        <sha256>e5f0a07249be7300266bad96c408350eaab8233e8391704051b70a7676ac470b</sha256>
+        <sha256>78d3bbfeab753016fcda3b2d52f6600c1d1ef5402b9d2f0eb43ed58ae238074c</sha256>
     </update>
 </updates>

@@ -3,17 +3,11 @@
     <changelog>
         <element>mod_jt_scrollcards</element>
         <type>module</type>
-        <version>0.2.6</version>
-        <addition>
-            <item>Added JoomTheme website and GitHub Issues support links to the module metadata and language description.</item>
-        </addition>
-        <change>
-            <item>Renamed the module branding to JT Scroll Cards.</item>
-            <item>Updated the technical module element and frontend CSS scope to the JT naming scheme.</item>
-            <item>Updated README, update server metadata and release asset naming for the JT package.</item>
-        </change>
+        <version>0.2.7</version>
         <fix>
-            <item>Updated the Turkish default intro text to avoid mixed English wording.</item>
+            <item>Ensured the Joomla update site is created, enabled and linked to the installed site module during install/update.</item>
+            <item>Bumped the public update stream to 0.2.7 so Joomla can detect an available update from 0.2.6.</item>
+            <item>Relaxed the Joomla 6 target platform pattern for better Joomla 6.x matching.</item>
         </fix>
         <note>
             <item>This changelog intentionally lists only the latest release.</item>
