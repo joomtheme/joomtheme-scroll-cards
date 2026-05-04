@@ -1,3 +1,6 @@
+<img width="1315" height="762" alt="card" src="https://github.com/user-attachments/assets/631544b4-7ba0-421f-91b2-9a0468f9411b" />
+
+
 # JoomTheme Scroll Cards
 
 JoomTheme Scroll Cards is a Joomla 6.x site module for creating Bootstrap 5 compatible sticky scroll card sections. Content, layout, spacing and colors are managed from the module parameters.
