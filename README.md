@@ -22,7 +22,7 @@ JT Scroll Cards is a Joomla 6.x site module by JoomTheme for creating Bootstrap 
 4. Go to Content > Site Modules > JT Scroll Cards.
 5. Choose a template position, publish the module and assign it to menu items.
 
-> Note: Version 0.2.6 is the clean JT-branded package. Install it as a clean module package if you used an older development build.
+> Note: Version 0.2.7 fixes update site registration and is the JT-branded package. Install it as a clean module package if you used an older development build before the JT rename.
 
 ## Features
 

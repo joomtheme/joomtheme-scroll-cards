@@ -1,18 +1,13 @@
 # Changelog
 
-## 0.2.6 - 2026-05-04
-
-### Added
-
-- Added JoomTheme website and GitHub Issues support links to the module metadata/language description.
-
-### Changed
-
-- Renamed the public module branding to `JT Scroll Cards`.
-- Renamed the technical module element for cleaner JoomTheme/JT branding.
-- Updated frontend CSS scope and asset handles to the JT naming scheme.
-- Updated README, update server metadata and release asset naming for the new JT package.
+## 0.2.7 - 2026-05-04
 
 ### Fixed
 
-- Updated the Turkish default intro text to avoid mixed English wording.
+- Ensured the Joomla update site is created, enabled and linked to the installed site module during install/update.
+- Bumped the public update stream to `0.2.7` so Joomla can detect an available update from `0.2.6`.
+- Relaxed the Joomla 6 target platform pattern for better Joomla 6.x matching.
+
+### Note
+
+- This changelog intentionally lists only the latest release.
