@@ -1,1 +1,20 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+    <changelog>
+        <element>mod_jtr_scrollcards</element>
+        <type>module</type>
+        <version>0.2.5</version>
+        <addition>
+            <item>Added Joomla update server registration to the module manifest.</item>
+            <item>Added Joomla changelog URL support.</item>
+            <item>Added repository-ready update and changelog XML files for GitHub distribution.</item>
+            <item>Added LICENSE.txt and refreshed project documentation for JED/GitHub distribution.</item>
+        </addition>
+        <fix>
+            <item>Added GPL-compatible license headers to services/provider.php and src/Dispatcher/Dispatcher.php for JED Checker compatibility.</item>
+        </fix>
+        <note>
+            <item>This changelog intentionally lists only the latest release.</item>
+        </note>
+    </changelog>
+</changelogs>
