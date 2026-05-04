@@ -1,9 +1,3 @@
-
-
-https://github.com/user-attachments/assets/1f1403c3-f876-4acf-a552-f27e66bf5c74
-
-
-
 # JT Scroll Cards
 
 JT Scroll Cards is a Joomla 6.x site module by JoomTheme for creating Bootstrap 5 compatible sticky scroll card sections. Content, layout, spacing and colors are managed from the module parameters.
